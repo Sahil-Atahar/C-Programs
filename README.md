@@ -1,1 +1,1 @@
-These are my C Programs. Hope it will help you. 
+These are my C Programs. I Hope it will help you. 
