@@ -6,7 +6,7 @@ int isleapyear(int year) {
 	return 0;
 	else if(year%100 == 0)
 	return 1;
-	else
+	else if(year%4 == 0)
 	return 0;
 	}
 	
