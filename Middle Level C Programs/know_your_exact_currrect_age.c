@@ -49,7 +49,7 @@ int main()
 {
 	//Declaring variables 
 	int DOBday,DOBmonth,DOByear,presentday,presentmonth,presentyear,i;
-	long totaldays = 0;
+	int totaldays = 0;
 	int totalmonth =0,totalyears=0;
 	//Taking user DOB
 	printf("Enter your DOB using space: ");
@@ -59,7 +59,7 @@ int main()
 	printf("Enter current date using space: ");
 	scanf("%d%d%d",&presentday,&presentmonth,&presentyear);
 	
-    //calculating the year difference
+        //calculating the year difference
 	for( i =DOByear+1; i < presentyear; i++) {
 	totalyears++;
 		}
