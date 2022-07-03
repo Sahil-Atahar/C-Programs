@@ -1,0 +1,60 @@
+﻿Q-1: Who is the inventor of C Language?
+(a) Robert petinson
+(b) Newton.
+(c) Robert Witson.
+(d) Denish Richie.
+d
+Q-2:The function scanf is used to ___
+(a) To take logical decisions
+(b) Input a set of values
+(c) Print a set of values
+(d) Do mathematical manipulations
+b
+Q-3:If the function returns no value then it is called ____
+(a) Data type function
+(b) Calling function
+(c) Main function
+(d) Void function
+d
+Q-4:Which character is used to indicate the end of the string?
+(a) Any alphabet
+(b) A
+(c) Null
+(d) None of these
+c
+Q-5:In the for loop structure, which statement is present?
+(a) Assign statement
+(b) Alter statement
+(c) Both (a) and (b)
+(d) None of these
+c
+Q-6:Which can be included in a string constant using the escape sequences?
+(a) Apostrophe (’)
+(b) Question mark (?)
+(c) Double quotes (“)
+(d) All the above
+d
+Q-7:Which of the following input function cannot be used to input multiword string in a single function call?
+(a) getche()
+(b) gets()
+(c) scanf()
+(d) None of above
+a
+Q-8:Which of the following declarations is not correct?
+(A) unsigned float d;
+(B) unsigned char c;
+(C) int b = 4;
+(D) float a;
+a
+Q-9:Which of the following operators has highest precedence?
+(a) *
+(b) /
+(c) %
+(d) All have same precedence
+d
+Q-10:A function _____
+(a) May or may not need input data
+(b) May or may not return a value
+(c) Both a and b
+(d) None of these
+c
