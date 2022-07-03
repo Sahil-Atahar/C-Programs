@@ -24,7 +24,7 @@ int main()
 		else
 		{
 			printf("Correct guess.You guess the number in %d attempts.\n",attempts);
-			printf("Do you want to play again?");
+			printf("Do you want to play again[Y/N]?");
 			scanf("%c",&askforInput);
 			if(askforInput == 'y' || askforInput == 'Y')
 			main();
