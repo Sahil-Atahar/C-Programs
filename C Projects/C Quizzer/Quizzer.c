@@ -43,9 +43,9 @@ int main()
     }
      clrscr();	
 	puts(question);
-	puts(option1);
-	puts(option2);
-	puts(option3);
+	fputs(option1,stdout);
+	fputs(option2,stdout);
+	fputs(option3,stdout);
 	puts(option4);
 		
 	printf("Your Answer: ");
